@@ -1,0 +1,47 @@
+body {
+      margin: 0;
+}
+
+
+Header {
+      background-color: slategrey;
+      padding: 10px 15px;
+      border: 1px solid white;
+      border-radius: 3px;
+      margin-bottom: 3em;
+
+
+}
+
+nav {
+      display: flex;
+      justify-content: space-between;
+}
+
+.div {
+      display: flex;
+      padding-inline: 15px;
+
+}
+
+a {
+      text-decoration: none;
+      margin-right: 2em;
+      border: 2px solid rgb(171, 236, 245);
+      border-radius: 5px;
+      padding: 5px;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 900;
+}
+
+a:hover {
+      background-color: lightgray;
+}
+
+
+
+
+
+a {
+      color: white;
+}
